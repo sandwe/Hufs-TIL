@@ -118,3 +118,19 @@
     </div>
     </details>
       
+### :four_leaf_clover: 21/07/28
+* 학습 콘텐츠 개수 설정 (1 - 3차시)
+* 학습 콘텐츠 기획
+* 기초학습 및 심화학습 사이드 바 변경
+  * 프로필: 마이페이지에서 사용자가 설정한 프로필이 나타남
+  * 목차: 1차시/ 2차시/ 3차시로 구성
+  * 소통하기: 질문하기로 구성
+  <details>
+  <summary>전체 페이지</summary>
+  <div markdown="1">       
+
+
+  <img width=60%, height=30%  src="https://user-images.githubusercontent.com/79586634/127661958-9a08bdc7-5181-4b5e-bc12-67160e7f0aaf.png"/>
+  
+  </div>
+  </details>
