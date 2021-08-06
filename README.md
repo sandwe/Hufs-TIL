@@ -134,3 +134,10 @@
   
   </div>
   </details>
+  
+### :four_leaf_clover: 21/08/04
+* Adobe XD - 최종 플로우 확인 및 수정
+  * 메인페이지 디자인 수정
+  * 마이페이지 - 재생 버튼: 학습 페이지로 이동
+  * 질문하기 - 저장 버튼: 질문게시판 페이지로 이동
+* 플러그인(Export as React Componet) 사용해 xd 파일을 React파일로 내보냄
