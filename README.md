@@ -141,3 +141,9 @@
   * 마이페이지 - 재생 버튼: 학습 페이지로 이동
   * 질문하기 - 저장 버튼: 질문게시판 페이지로 이동
 * 플러그인(Export as React Componet) 사용해 xd 파일을 React파일로 내보냄
+
+### :four_leaf_clover: 21/08/07
+* Adobe XD 요소 이름 수정
+* Adobe XD 파일 HTML 파일로 내보냄
+* React 렌더링 방법 학습
+
