@@ -167,3 +167,8 @@
   * 이후 ```flex-direction: row | column ```를 적용해 flexbox의 방향성을 결정하여 내부 엘리먼트를 배치한다.
 * React Router 컴포넌트
   * Link: ```<Link>``` 컴포넌트의 ```to``` prop을 통해 이동할 경로를 지정하고, ```<Link>``` 컴포넌트 클릭시 다른 페이지로 이동한다.
+
+### :four_leaf_clover: 21/08/27
+* 로그인 시 Topbar에 나타나는 프로필: dropdown 형식으로 로그아웃/회원정보 item 나타나도록 구현
+* Signin 페이지 background-image 오류 수정
+* 기초학습 1차시 - 마이크로비트 소개 페이지 구현
