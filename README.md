@@ -147,3 +147,11 @@
 * Adobe XD 파일 HTML 파일로 내보냄
 * React 렌더링 방법 학습
 
+### :four_leaf_clover: 21/08/11
+* Home 페이지 및 Signin 페이지 설계
+* Signin 페이지: 리액트 함수형 컴포넌트 & Hooks 이용해 로그인 input 상태 관리
+* 라우터 기능 추가
+  ```
+  yarn add react-router-dom
+  ```
+
