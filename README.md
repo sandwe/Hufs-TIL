@@ -148,10 +148,22 @@
 * React 렌더링 방법 학습
 
 ### :four_leaf_clover: 21/08/11
-* Home 페이지 및 Signin 페이지 설계
+* Home 페이지 및 Signin 페이지 구현
 * Signin 페이지: 리액트 함수형 컴포넌트 & Hooks 이용해 로그인 input 상태 관리
 * 라우터 기능 추가
   ```
   yarn add react-router-dom
   ```
-
+  
+### :four_leaf_clover: 21/08/18
+* Signup 페이지 및 Mypage 페이지 구현
+* Styled Components 이용해 요소 css
+ * javascript에서 css 사용 가능하게 하는 CSS-in-JS 라이브러리
+ ```
+ yarn install styled-components
+ ```
+* flexbox를 이용한 반응형 웹 디자인
+  * 외부 엘리먼트에 ```display: flex;``` 적용하면 외부 엘리먼트는 flex container / 내부 엘리먼트는 flex item으로 설정한다.
+  * 이후 ```flex-direction: row | column ```를 적용해 flexbox의 방향성을 결정하여 내부 엘리먼트를 배치한다.
+* React Router 컴포넌트
+  * Link: ```<Link>``` 컴포넌트의 ```to``` prop을 통해 이동할 경로를 지정하고, ```<Link>``` 컴포넌트 클릭시 다른 페이지로 이동한다.
